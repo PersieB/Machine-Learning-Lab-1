@@ -8,4 +8,4 @@ Please excuse anything that doesn't make "Real-World" sense in the dataframe, al
 
 ##3 Salaries.csv is also a dataset obtained from Kaggle. Lab 1_Salaries notebook or python file reads the dataset and explores the use of pandas, in answering questions from the dataset.
 
-NB: The notebooks can be run via Google Colab or Jupiter Notebook. Their respective python files are also available.
+NB: The notebooks(.ipnd) can be run through Google Colab or Jupiter Notebook. Their respective python files are also available. To run the python files (.py) on your local device, kindly make sure that you have 'Numpy' and 'Pandas' installed.
